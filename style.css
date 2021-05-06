@@ -7,6 +7,13 @@ body{
 h1{
     font-size: 50px;
 }
+h2{
+    font-size: 40px;
+}
+
+p{
+    color: dimgray;
+}
 
 .name-highlight{
     color: #FF2A7E;
@@ -29,6 +36,7 @@ h1{
 }
 section{
     height: 500px;
+    padding-bottom: 150px;
 }
 
 .link-button{
@@ -40,4 +48,10 @@ section{
     font-weight: 600;
 
 
+}
+
+.dream-area{
+   background-image: url("images/dream-bg.png"); 
+   background-repeat: no-repeat;
+   background-position:right ;
 }
